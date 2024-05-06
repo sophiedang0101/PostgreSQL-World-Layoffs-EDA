@@ -1,7 +1,7 @@
 ## Exploratory Data Analysis Project:
-- Utilized SQL functions, Common Table Expressions (CTEs), and joins to effectively clean data by eliminating duplicates and standardizing formats. 
-- Imputed null values in the ‘industry’ column by utilizing existing values from within the same column.
-- Conducted comprehensive analysis to uncover and interpret layoff patterns across various industries, countries, and companies, providing valuable insights into layoff and workforce trends.
+- Conducted in-depth analysis using PostgreSQL, employing advanced techniques such as CTEs, JOINS, and aggregate functions to uncover significant layoff patterns across various industries, countries, and companies from 2020 to 2023.
+- Implemented robust data cleaning methods, including duplicate removal, format standardization, and imputation leveraging existing values within the “industry” column, ensuring data integrity, and enhancing analytical accuracy.
+
 
  ## Dataset Link:
  https://www.kaggle.com/datasets/swaptr/layoffs-2022
